@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "\r\nSMART MONITOR"
 date
 echo "\r\nSize of Directories"
